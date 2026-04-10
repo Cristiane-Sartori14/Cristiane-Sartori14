@@ -11,7 +11,7 @@ Focada em aprendizado contínuo, desenvolvimento prático e evolução constante
 ## 🌐 Onde me encontrar
 
 <p align="left">
-  <a href="https://github.com/cristianesartori14">
+  <a href="https://github.com/Cristiane-Sartori14">
     <img src="https://img.shields.io/badge/GitHub-CRISTIANESARTORI14-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://instagram.com/cristiane_sartori14">
@@ -48,13 +48,12 @@ Focada em aprendizado contínuo, desenvolvimento prático e evolução constante
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=cristianesartori14&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianesartori14&layout=compact&theme=tokyonight&langs_count=6" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Cristiane-Sartori14cristianesartori14&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cCristiane-Sartori14&layout=compact&theme=tokyonight&langs_count=6" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=cristianesartori14&theme=tokyonight" />
+  <img height="170" src="https://streak-stats.demolab.com?user=Cristiane-Sartori14&theme=tokyonight" />
 </p>
 
----
 ---
